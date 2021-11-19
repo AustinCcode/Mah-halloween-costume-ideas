@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(128, 255, 255);
+    text-align: center;
+    border-style:dashed;
+    border-color: rgb(2, 216, 216);
+}
+
+p {
+    border-style: solid;
+    border-color:hsl(180, 49%, 47%);
+    border-width: 5px;
+    border-radius: 1100px;
+    border-spacing: 100000px;
+    box-sizing: border-box;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color:rgb(21, 148, 148);}
+
+img {
+    border-radius: 50%;
+    border: 5px solid hsl(180, 49%, 47%);
+    
+}
+
+h1 {
+    color: hsl(180, 49%, 47%) ;
+}
+
+h2 {
+    color: hsl(180, 49%, 47%) ;
+}
+
+a {
+    color:hsl(180, 49%, 41%) ;
+    border-style: solid;
+    border-color:hsl(180, 49%, 47%);
+    border-width: 4px;
+    border-radius: 1100px;
+    border-spacing: 100000px;
+    box-sizing: border-box;
+    width: 200px;
+}
+
+.iom{
+    width: 50px;
+}
